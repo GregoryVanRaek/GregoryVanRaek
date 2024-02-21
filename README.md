@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Gregory !
+
+💻 Currently learning computer science to start a new career !
+📧 How to contact me : vanraekgregory@hotmail.com
+
 
 <!--
 **GregoryVanRaek/GregoryVanRaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
