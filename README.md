@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Gregory !
 
-💻 Currently learning computer science to start a new career !
-📧 How to contact me : vanraekgregory@hotmail.com
+- 💻 I'm currently learning computer science to start a new career !
+- 📧 How to contact me : vanraekgregory@hotmail.com
 
 
 <!--
